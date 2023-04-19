@@ -1,3 +1,4 @@
+from pyexpat import ExpatError
 import time
 import requests
 import xmltodict    
@@ -56,7 +57,12 @@ def ncbi_get(action: str, db: str, params: list[tuple[str, str]]):
         if _cached_r is None:
             time.sleep(0.1)
             r = requests.get(url)
-            d: dict = xmltodict.parse(r.text)
+            try:
+                d: dict = xmltodict.parse(r.text)
+            except ExpatError as e:
+                print(f"{e}")
+                print(f"{r.text}")
+                return "xml format", r.text
             if r.status_code != 200: return r.status_code, d
             request_cache[ckey] = dict(status_code = r.status_code, data=d)
         else:
