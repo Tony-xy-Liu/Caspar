@@ -38,7 +38,7 @@ def chain_get(d: dict, path: list|str) -> Any:
 # https://www.ncbi.nlm.nih.gov/account/settings/
 # https://www.ncbi.nlm.nih.gov/books/NBK25497/#_chapter2_Usage_Guidelines_and_Requiremen_
 with open(WORKSPACE_ROOT.joinpath("secrets/ncbi_apikey")) as f:
-    API_KEY = f.readline()
+    API_KEY = f.readline().replace("\n", "").strip()
 
 def ncbi_get(action: str, db: str, params: list[tuple[str, str]]):
     base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
