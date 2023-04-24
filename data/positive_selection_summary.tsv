@@ -1,0 +1,239 @@
+GC_00001597	0.000000**	GC_00001597	Core	NULL	NULL
+GC_00002175	0.000000**	GC_00002175	Core	COG0025|COG0569	NhaP-type Na+/H+ or K+/H+ antiporter (NhaP) (PDB:4CZB)|Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain (TrkA) (PDB:4XTT) (PUBMED:23815639;25957408;31868587;32095817)
+GC_00002333	0.000000**	GC_00002333	Core	COG1337	CRISPR-Cas system type III CSM-effector complex subunit Csm3, RAMP superfamily Cas7 group (Csm3) (PDB:6IFN)
+GC_00002431	0.000000**	GC_00002431	Core	COG3463	Uncharacterized membrane protein
+GC_00002482	0.000000**	GC_00002482	Core	COG0192	S-adenosylmethionine synthetase (MetK) (PDB:1FUG)
+GC_00002586	0.000000**	GC_00002586	Core	NULL	NULL
+GC_00002720	0.000000**	GC_00002720	Core	COG0458	Carbamoylphosphate synthase large subunit (CarB) (PDB:1C30)
+GC_00002856	0.000000**	GC_00002856	Aux_HF	NULL	NULL
+GC_00002861	0.000000**	GC_00002861	Aux_HF	COG0493	NADPH-dependent glutamate synthase beta chain or related oxidoreductase (GltD) (PDB:1H7X)
+GC_00002918	0.000000**	GC_00002918	Aux_HF	COG0457|COG4995	Tetratricopeptide (TPR) repeat (TPR) (PDB:3AS4)|Uncharacterized conserved protein, contains CHAT domain (PUBMED:11835511)
+GC_00002922	0.000000**	GC_00002922	Aux_HF	COG2319	WD40 repeat (WD40) (PDB:3UVN)
+GC_00003062	0.000000**	GC_00003062	Aux_HF	NULL	NULL
+GC_00003090	0.000000**	GC_00003090	Aux_HF	NULL	NULL
+GC_00001535	0.000001**	GC_00001535	Core	COG0841	Multidrug efflux pump subunit AcrB (AcrB) (PDB:1IWG)
+GC_00002367	0.000001**	GC_00002367	Core	COG0250	Transcription termination/antitermination protein NusG (NusG) (PDB:3EWG) (PUBMED:19500594)
+GC_00002957	0.000001**	GC_00002957	Aux_HF	COG0840|COG2202	Methyl-accepting chemotaxis protein (MCP) (Tar) (PDB:1QU7)|PAS domain (PAS) (PDB:2MWG)
+GC_00001331	0.000002**	GC_00001331	Core	NULL	NULL
+GC_00001371	0.000002**	GC_00001371	Core	COG0504	CTP synthase (UTP-ammonia lyase) (PyrG) (PDB:1S1M)
+GC_00001385	0.000003**	GC_00001385	Core	COG0284	Orotidine-5'-phosphate decarboxylase (PyrF) (PDB:1DBT)
+GC_00001580	0.000003**	GC_00001580	Core	COG2021	Homoserine O-acetyltransferase (MET2) (PDB:2VAT)
+GC_00002325	0.000003**	GC_00002325	Core	NULL	NULL
+GC_00002380	0.000006**	GC_00002380	Core	COG1305	Transglutaminase-like enzyme, putative cysteine protease (YebA) (PDB:3ISR)
+GC_00001328	0.000007**	GC_00001328	Core	NULL	NULL
+GC_00001881	0.000008**	GC_00001881	Core	COG0674|COG1013|COG1014|COG1145	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, alpha subunit (PorA) (PDB:5C4I)|Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, beta subunit (PorB) (PDB:1B0P)|Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit (PorG) (PDB:1B0P)|Ferredoxin (NapF) (PDB:6FAH)
+GC_00002330	0.000008**	GC_00002330	Core	COG1928	Dolichyl-phosphate-mannose--protein O-mannosyl transferase (PMT1) (PDB:1N4K)
+GC_00003068	0.000008**	GC_00003068	Aux_HF	COG1203	CRISPR-Cas type I system-associated endonuclease/helicase Cas3 (Cas3)
+GC_00001272	0.000014**	GC_00001272	Core	COG3147	Cell division protein DedD (periplasmic protein involved in septation) (DedD)
+GC_00002344	0.000020**	GC_00002344	Core	NULL	NULL
+GC_00001775	0.000029**	GC_00001775	Core	COG3016	Putative heme-binding protein PhuW (PhuW) (PDB:2G5G) (PUBMED:16950397)
+GC_00002316	0.000034**	GC_00002316	Core	COG4249	Uncharacterized conserved protein, contains caspase domain (PDB:3UO8)
+GC_00002468	0.000040**	GC_00002468	Core	NULL	NULL
+GC_00000981	0.000042**	GC_00000981	Core	COG0860	N-acetylmuramoyl-L-alanine amidase (AmiC) (PDB:1JWQ)
+GC_00002347	0.000043**	GC_00002347	Core	COG0068	Hydrogenase maturation factor HypF (carbamoyltransferase) (HypF) (PDB:3TSP)
+GC_00002511	0.000043**	GC_00002511	Core	NULL	NULL
+GC_00001303	0.000044**	GC_00001303	Core	COG2274|COG2905	ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain (SunT) (PDB:3K8U)|Signal-transduction protein containing cAMP-binding, CBS, and nucleotidyltransferase domains
+GC_00002156	0.000045**	GC_00002156	Core	COG5693	Phycobilisome linker protein ApcE (ApcE) (PDB:3OSJ;3OHW) (PUBMED:8905231)
+GC_00001110	0.000049**	GC_00001110	Core	COG0321	Lipoate-protein ligase B (LipB) (PDB:2QHT) (PUBMED:19798051)
+GC_00002377	0.000062**	GC_00002377	Core	COG0593	Chromosomal replication initiation ATPase DnaA (DnaA) (PDB:1L8Q)
+GC_00001191	0.000071**	GC_00001191	Core	COG0673	Predicted dehydrogenase (MviM) (PDB:3UUW)
+GC_00001825	0.000073**	GC_00001825	Core	COG4995	Uncharacterized conserved protein, contains CHAT domain (PUBMED:11835511)
+GC_00002656	0.000078**	GC_00002656	Core	COG1166	Arginine decarboxylase (spermidine biosynthesis) (SpeA) (PDB:3N2O)
+GC_00001484	0.000083**	GC_00001484	Core	COG0380	Trehalose-6-phosphate synthase, GT20 family (OtsA) (PDB:1UQT) (PUBMED:28830929)
+GC_00000963	0.000102**	GC_00000963	Core	COG2205	K+-sensing histidine kinase KdpD (KdpD) (PDB:2KSF)
+GC_00001598	0.000134**	GC_00001598	Core	COG0053	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump (FieF) (PDB:2QFI)
+GC_00003130	0.000135**	GC_00003130	Aux_HF	NULL	NULL
+GC_00003109	0.000142**	GC_00003109	Aux_HF	NULL	NULL
+GC_00001048	0.000152**	GC_00001048	Core	COG0758	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake (Smf) (PDB:3MAJ)
+GC_00001132	0.000214**	GC_00001132	Core	COG2873	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent (MET17) (PDB:2CTZ)
+GC_00002181	0.000268**	GC_00002181	Core	COG0276	Protoheme ferro-lyase (ferrochelatase) (HemH) (PDB:1AK1)
+GC_00001771	0.000281**	GC_00001771	Core	COG0635	Coproporphyrinogen-III oxidase HemN  (oxygen-independent) or related Fe-S oxidoreductase (HemN) (PDB:1OLT)
+GC_00002262	0.000301**	GC_00002262	Core	NULL	NULL
+GC_00001028	0.000366**	GC_00001028	Core	COG0195	Transcription antitermination factor NusA, contains S1 and KH domains (NusA) (PDB:1HH2)
+GC_00002023	0.000377**	GC_00002023	Core	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase (LpxC) (PDB:1P42)
+GC_00001969	0.000385**	GC_00001969	Core	COG0438|COG0463|COG3914	Glycosyltransferase involved in cell wall bisynthesis (RfaB) (PDB:2IV7)|Glycosyltransferase involved in cell wall bisynthesis (WcaA) (PDB:5MLZ)|Predicted O-linked N-acetylglucosamine transferase, SPINDLY family (Spy) (PDB:2JLB)
+GC_00002445	0.000404**	GC_00002445	Core	COG0840	Methyl-accepting chemotaxis protein (MCP) (Tar) (PDB:1QU7)
+GC_00002461	0.000422**	GC_00002461	Core	COG2105	Predicted gamma-glutamylamine cyclotransferase YtfP, GGCT/AIG2-like family (YtfP) (PDB:1V30) (PUBMED:16754964;20110353)
+GC_00002661	0.000452**	GC_00002661	Core	COG1196	Chromosome segregation ATPase Smc (Smc) (PDB:5XG3)
+GC_00003070	0.000490**	GC_00003070	Aux_HF	COG4552	Predicted acetyltransferase (Eis) (PDB:2HV2)
+GC_00002019	0.000573**	GC_00002019	Core	COG4354	Uncharacterized conserved protein, contains GBA2_N and DUF608 domains (PDB:5BVU)
+GC_00001071	0.000606**	GC_00001071	Core	COG0448	Glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase) (GlgC) (PDB:5MNI) (PUBMED:27545622)
+GC_00002841	0.000633**	GC_00002841	Aux_HF	COG2355	Zn-dependent dipeptidase, microsomal dipeptidase homolog (PDB:1ITQ) (PUBMED:14499931)
+GC_00000975	0.000656**	GC_00000975	Core	COG2317	Zn-dependent carboxypeptidase, M32 family (YpwA) (PDB:1K9X)
+GC_00000979	0.000671**	GC_00000979	Core	COG2607	Predicted ATPase, AAA+ superfamily (Atu1564)
+GC_00002282	0.000680**	GC_00002282	Core	COG2153	Predicted N-acyltransferase, GNAT family (ElaA) (PDB:1XEB)
+GC_00002140	0.000728**	GC_00002140	Core	COG0550|COG1754	DNA topoisomerase IA (TopA) (PDB:1CY0)|Uncharacterized C-terminal domain of topoisomerase IA
+GC_00003146	0.000755**	GC_00003146	Aux_HF	NULL	NULL
+GC_00001021	0.000831**	GC_00001021	Core	COG1135	ABC-type methionine transport system, ATPase component (AbcC) (PDB:6CVL)
+GC_00001275	0.000843**	GC_00001275	Core	COG0456	Ribosomal protein S18 acetylase RimI and related acetyltransferases (RimI) (PDB:1GHE)
+GC_00003183	0.000907**	GC_00003183	Aux_HF	NULL	NULL
+GC_00001332	0.000963**	GC_00001332	Core	COG0505	Carbamoylphosphate synthase small subunit (CarA) (PDB:1C30)
+GC_00002071	0.000978**	GC_00002071	Core	COG0346	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family (GloA) (PDB:3R4Q) (PUBMED:11830595)
+GC_00002790	0.000980**	GC_00002790	Aux_HF	COG0689	Ribonuclease PH (Rph) (PDB:1UDO)
+GC_00001401	0.001027**	GC_00001401	Core	COG0148	Enolase (Eno) (PDB:1E9I)
+GC_00001473	0.001036**	GC_00001473	Core	NULL	NULL
+GC_00001638	0.001043**	GC_00001638	Core	NULL	NULL
+GC_00002510	0.001080**	GC_00002510	Core	COG1161	Ribosome biogenesis GTPase RbgA (RbgA) (PDB:6G14)
+GC_00002702	0.001098**	GC_00002702	Core	NULL	NULL
+GC_00001214	0.001106**	GC_00001214	Core	NULL	NULL
+GC_00001853	0.001111**	GC_00001853	Core	COG1918	Fe2+ transport protein FeoA (FeoA) (PDB:2GCX)
+GC_00001984	0.001173**	GC_00001984	Core	COG2352	Phosphoenolpyruvate carboxylase (Ppc) (PDB:1FIY)
+GC_00002483	0.001182**	GC_00002483	Core	COG1974	SOS-response transcriptional repressor LexA (RecA-mediated autopeptidase) (LexA) (PDB:1AY9)
+GC_00002113	0.001211**	GC_00002113	Core	COG3000	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily (ERG3) (PDB:4ZR0)
+GC_00002083	0.001244**	GC_00002083	Core	NULL	NULL
+GC_00001691	0.001264**	GC_00001691	Core	NULL	NULL
+GC_00001720	0.001294**	GC_00001720	Core	COG2109	ATP:corrinoid adenosyltransferase (BtuR) (PDB:4HUT)
+GC_00002537	0.001343**	GC_00002537	Core	COG1028	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (FabG) (PDB:6L1H)
+GC_00001295	0.001371**	GC_00001295	Core	COG1335	Nicotinamidase-related amidase (PncA) (PDB:1ILW)
+GC_00003227	0.001387**	GC_00003227	Aux_HF	NULL	NULL
+GC_00002341	0.001432**	GC_00002341	Core	COG1198	Primosomal protein N' (replication factor Y) - superfamily II helicase (PriA) (PDB:6DCR)
+GC_00001097	0.001617**	GC_00001097	Core	COG0265	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain (DegQ) (PDB:2HGA) (PUBMED:29686141)
+GC_00001779	0.001676**	GC_00001779	Core	NULL	NULL
+GC_00002582	0.001688**	GC_00002582	Core	COG4637	Predicted ATPase
+GC_00002502	0.001732**	GC_00002502	Core	COG1566	Multidrug resistance efflux pump EmrA (EmrA) (PDB:4TKO)
+GC_00001376	0.001813**	GC_00001376	Core	NULL	NULL
+GC_00001183	0.001916**	GC_00001183	Core	COG2201	Chemotaxis response regulator CheB, contains REC and protein-glutamate methylesterase domains (CheB) (PDB:1A2O)
+GC_00001750	0.002002**	GC_00001750	Core	COG1596	Periplasmic protein Wza involved in polysaccharide export, contains SLBB domain of the beta-grasp fold (Wza) (PDB:2J58) (PUBMED:17250770)
+GC_00002735	0.002118**	GC_00002735	Core	COG2978	p-Aminobenzoyl-glutamate transporter AbgT (AbgT) (PDB:4R0C) (PUBMED:17307853)
+GC_00001242	0.002166**	GC_00001242	Core	COG0706	Membrane protein insertase Oxa1/YidC/SpoIIIJ (YidC) (PDB:3WO6)
+GC_00001572	0.002266**	GC_00001572	Core	COG0457	Tetratricopeptide (TPR) repeat (TPR) (PDB:3AS4)
+GC_00002132	0.002346**	GC_00002132	Core	COG0107	Imidazole glycerol phosphate synthase subunit HisF (HisF) (PDB:1OX4)
+GC_00001925	0.002359**	GC_00001925	Core	COG0819	Aminopyrimidine aminohydrolase TenA (thiamine salvage pathway) (TenA) (PDB:2QCX) (PUBMED:17618314)
+GC_00001624	0.002615**	GC_00001624	Core	NULL	NULL
+GC_00002552	0.002715**	GC_00002552	Core	COG1466	DNA polymerase III, delta subunit (HolA) (PDB:3ZH9)
+GC_00001333	0.002746**	GC_00001333	Core	COG1413	HEAT repeat (HEAT) (PDB:1OYZ)
+GC_00002826	0.003032**	GC_00002826	Aux_HF	COG0642|COG5278	Signal transduction histidine kinase (BaeS) (PDB:1JOY)|Extracytoplasmic sensor domain CHASE3 (specificity unknown) (CHASE3) (PDB:3VA9)
+GC_00001486	0.003161**	GC_00001486	Core	COG1922	UDP-N-acetyl-D-mannosaminuronic acid transferase, WecB/TagA/CpsF family (WecG)
+GC_00001038	0.003167**	GC_00001038	Core	COG5781	Cytochrome b6 maturation protein CCB2 (Ccb2) (PUBMED:17971335;18593701)
+GC_00002473	0.003193**	GC_00002473	Core	COG0260	Leucyl aminopeptidase (PepB) (PDB:3H8E) (PUBMED:19553197;23825549)
+GC_00002026	0.003368**	GC_00002026	Core	COG0558	Phosphatidylglycerophosphate synthase (PgsA) (PDB:4MND)
+GC_00003165	0.003589**	GC_00003165	Aux_HF	COG0737|COG2931|COG3391|COG4222	2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family (UshA) (PDB:1HO5)|Ca2+-binding protein, RTX toxin-related (PDB:1AF0) (PUBMED:15135544)|DNA-binding beta-propeller fold protein YncE (YncE) (PDB:3VGZ) (PUBMED:22120742;28628661)|Uncharacterized conserved protein, contains a phytase-like domain
+GC_00001798	0.003799**	GC_00001798	Core	COG0606	Predicted Mg-chelatase, contains ChlI-like and ATPase domains, YifB family (YifB)
+GC_00001522	0.004137**	GC_00001522	Core	COG0438	Glycosyltransferase involved in cell wall bisynthesis (RfaB) (PDB:2IV7)
+GC_00001138	0.004382**	GC_00001138	Core	COG5690	Phycocyanobilin lyase CpeS/CpcS (= Ycf58) (Ycf58) (PDB:3BDR)
+GC_00001268	0.004775**	GC_00001268	Core	COG2875	Precorrin-4 methylase (CobM) (PDB:4E16)
+GC_00000889	0.004820**	GC_00000889	Core	COG1215|COG1216|COG3551	Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase (BcsA) (PDB:4HG6)|Glycosyltransferase, GT2 family (WcaE) (PDB:2Z86)|Uncharacterized conserved protein
+GC_00000856	0.004984**	GC_00000856	Core	COG0714	MoxR-like ATPase (MoxR) (PDB:2R44)
+GC_00001297	0.004991**	GC_00001297	Core	COG1940	Sugar kinase of the NBD/HSP70 family, may contain an N-terminal HTH domain (NagC) (PDB:1WOQ)
+GC_00001512	0.005219**	GC_00001512	Core	COG1063	Threonine dehydrogenase or related Zn-dependent dehydrogenase (Tdh) (PDB:4A2C)
+GC_00002261	0.005230**	GC_00002261	Core	NULL	NULL
+GC_00001568	0.005269**	GC_00001568	Core	COG3185	4-hydroxyphenylpyruvate dioxygenase and related hemolysins (HppD)
+GC_00000912	0.005281**	GC_00000912	Core	COG1253	Hemolysin-related protein, contains CBS domains, UPF0053 family (TlyC) (PDB:2NQW)
+GC_00001270	0.005609**	GC_00001270	Core	COG0109	Polyprenyltransferase (heme O synthase) (CyoE)
+GC_00002076	0.006573**	GC_00002076	Core	COG0451	Nucleoside-diphosphate-sugar epimerase (WcaG) (PDB:2X4G)
+GC_00002458	0.006596**	GC_00002458	Core	COG4678	Muramidase (phage lambda lysozyme)
+GC_00001105	0.006848**	GC_00001105	Core	COG0629	Single-stranded DNA-binding protein (Ssb) (PDB:1EQQ)
+GC_00001946	0.007244**	GC_00001946	Core	COG1143	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I) (NuoI) (PDB:1B0P)
+GC_00001495	0.007267**	GC_00001495	Core	COG0265	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain (DegQ) (PDB:2HGA) (PUBMED:29686141)
+GC_00002337	0.007506**	GC_00002337	Core	COG0528	Uridylate kinase (PyrH) (PDB:2BND)
+GC_00001483	0.007649**	GC_00001483	Core	NULL	NULL
+GC_00002919	0.007799**	GC_00002919	Aux_HF	COG2271	Sugar phosphate permease (UhpC) (PDB:1PW4)
+GC_00002452	0.007825**	GC_00002452	Core	NULL	NULL
+GC_00002286	0.007985**	GC_00002286	Core	NULL	NULL
+GC_00001223	0.008307**	GC_00001223	Core	COG2227	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase (UbiG) (PDB:1BHJ)
+GC_00003118	0.008524**	GC_00003118	Aux_HF	NULL	NULL
+GC_00001838	0.008550**	GC_00001838	Core	COG0665	Glycine/D-amino acid oxidase (deaminating) (DadA) (PDB:3AWI)
+GC_00002714	0.008794**	GC_00002714	Core	NULL	NULL
+GC_00002283	0.008847**	GC_00002283	Core	COG1434	Lipid carrier protein ElyC involved in cell wall biogenesis, DUF218 family (ElyC) (PDB:3CA8) (PUBMED:24391520)
+GC_00002449	0.008950**	GC_00002449	Core	COG1357	Uncharacterized conserved protein YjbI, contains pentapeptide repeats (YjbI) (PDB:2BM4)
+GC_00000984	0.008985**	GC_00000984	Core	COG1032|COG5011	Radical SAM superfamily enzyme YgiQ, UPF0313 family (YgiQ) (PDB:6FD2)|Uncharacterized conserved protein, DUF2344 family
+GC_00000852	0.009155**	GC_00000852	Core	NULL	NULL
+GC_00002900	0.009221**	GC_00002900	Aux_HF	NULL	NULL
+GC_00001760	0.009590**	GC_00001760	Core	NULL	NULL
+GC_00002364	0.010007*	GC_00002364	Core	COG2214	Curved DNA-binding protein CbpA, contains a DnaJ-like domain (CbpA)
+GC_00003202	0.010010*	GC_00003202	Aux_HF	NULL	NULL
+GC_00001650	0.010232*	GC_00001650	Core	NULL	NULL
+GC_00001818	0.010271*	GC_00001818	Core	NULL	NULL
+GC_00002009	0.010353*	GC_00002009	Core	COG0142	Geranylgeranyl pyrophosphate synthase (IspA) (PDB:2AZJ)
+GC_00001431	0.010397*	GC_00001431	Core	COG0461	Orotate phosphoribosyltransferase (PyrE) (PDB:4WML)
+GC_00002727	0.010484*	GC_00002727	Core	COG0431	NAD(P)H-dependent FMN reductase (SsuE) (PDB:6DQI)
+GC_00002265	0.010589*	GC_00002265	Core	COG0020	Undecaprenyl pyrophosphate synthase (UppS) (PDB:1X07)
+GC_00001761	0.010836*	GC_00001761	Core	COG0457	Tetratricopeptide (TPR) repeat (TPR) (PDB:3AS4)
+GC_00000859	0.011203*	GC_00000859	Core	COG0631	Serine/threonine protein phosphatase PrpC (PTC1) (PDB:6IHL)
+GC_00002120	0.011530*	GC_00002120	Core	COG0800	2-keto-3-deoxy-6-phosphogluconate aldolase (Eda) (PDB:2V81)
+GC_00002285	0.011837*	GC_00002285	Core	COG0456	Ribosomal protein S18 acetylase RimI and related acetyltransferases (RimI) (PDB:1GHE)
+GC_00001083	0.011943*	GC_00001083	Core	COG0438	Glycosyltransferase involved in cell wall bisynthesis (RfaB) (PDB:2IV7)
+GC_00001240	0.012030*	GC_00001240	Core	NULL	NULL
+GC_00000904	0.012280*	GC_00000904	Core	COG2046	ATP sulfurylase (sulfate adenylyltransferase) (MET3) (PDB:1G8F)
+GC_00001361	0.012477*	GC_00001361	Core	COG2804	Type II secretory pathway ATPase GspE/PulE or T4P pilus assembly pathway ATPase PilB (PulE) (PDB:4KSR)
+GC_00001906	0.012699*	GC_00001906	Core	COG0439	Biotin carboxylase (AccC) (PDB:1BNC)
+GC_00001873	0.012892*	GC_00001873	Core	COG5740	Photosystem II biogenesis protein Psb29 (thylakoid formation protein THF1) (THF1) (PDB:5MJO) (PUBMED:28808107)
+GC_00002018	0.012902*	GC_00002018	Core	NULL	NULL
+GC_00001514	0.013601*	GC_00001514	Core	NULL	NULL
+GC_00002911	0.013654*	GC_00002911	Aux_HF	COG1120	ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component (FepC) (PDB:2NQ2)
+GC_00001369	0.014440*	GC_00001369	Core	COG0644	Dehydrogenase (flavoprotein) (FixC) (PDB:4OPU)
+GC_00002737	0.014834*	GC_00002737	Core	COG4627	Predicted SAM-depedendent methyltransferase
+GC_00001964	0.014852*	GC_00001964	Core	COG0583	DNA-binding transcriptional regulator, LysR family (LysR) (PDB:2FYI)
+GC_00002685	0.015942*	GC_00002685	Core	NULL	NULL
+GC_00001143	0.016043*	GC_00001143	Core	COG4536	Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains (CorB) (PUBMED:1779764)
+GC_00002515	0.016240*	GC_00002515	Core	COG2227	2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase (UbiG) (PDB:1BHJ)
+GC_00002338	0.016426*	GC_00002338	Core	COG0632	Holliday junction resolvasome RuvABC DNA-binding subunit (RuvA) (PDB:1BDX)
+GC_00002635	0.016847*	GC_00002635	Core	NULL	NULL
+GC_00002684	0.016930*	GC_00002684	Core	COG0307	Riboflavin synthase alpha chain (RibC) (PDB:1I8D)
+GC_00002439	0.017079*	GC_00002439	Core	COG0685	5,10-methylenetetrahydrofolate reductase (MetF) (PDB:1B5T)
+GC_00002294	0.017410*	GC_00002294	Core	COG2940	SET domain-containing protein (function unknown) (SET) (PDB:6BX3)
+GC_00001790	0.018017*	GC_00001790	Core	COG2334	Ser/Thr protein kinase RdoA involved in Cpx stress response, MazF antagonist (SrkA) (PDB:1ZYL)
+GC_00002186	0.018304*	GC_00002186	Core	COG1942	Phenylpyruvate tautomerase PptA, 4-oxalocrotonate tautomerase family (PptA) (PDB:1BJP)
+GC_00002896	0.018495*	GC_00002896	Aux_HF	NULL	NULL
+GC_00001562	0.018668*	GC_00001562	Core	COG0046	Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain (PurL1) (PDB:3VIU)
+GC_00002524	0.018711*	GC_00002524	Core	COG0082	Chorismate synthase (AroC) (PDB:1Q1L)
+GC_00002322	0.018730*	GC_00002322	Core	COG2226	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG (UbiE) (PDB:4OBW)
+GC_00002690	0.019112*	GC_00002690	Core	COG0354	Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters (YgfZ) (PDB:1NRK) (PUBMED:27941785;22081392)
+GC_00001532	0.019151*	GC_00001532	Core	NULL	NULL
+GC_00002233	0.019424*	GC_00002233	Core	COG1404	Serine protease, subtilisin family (AprE) (PDB:1SCJ)
+GC_00002631	0.019828*	GC_00002631	Core	COG3000	Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily (ERG3) (PDB:4ZR0)
+GC_00001621	0.019948*	GC_00001621	Core	COG0325	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family (YggS) (PDB:3SY1) (PUBMED:26872910)
+GC_00002728	0.020690*	GC_00002728	Core	NULL	NULL
+GC_00002529	0.021704*	GC_00002529	Core	COG0371	Glycerol dehydrogenase or related enzyme, iron-containing ADH family (GldA) (PDB:3S99) (PUBMED:20688982)
+GC_00001419	0.021855*	GC_00001419	Core	NULL	NULL
+GC_00003144	0.022123*	GC_00003144	Aux_HF	NULL	NULL
+GC_00003025	0.022413*	GC_00003025	Aux_HF	NULL	NULL
+GC_00002214	0.022508*	GC_00002214	Core	COG0472	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase (Rfe) (PDB:4J72)
+GC_00002551	0.022560*	GC_00002551	Core	NULL	NULL
+GC_00001970	0.022889*	GC_00001970	Core	COG2208	Phosphoserine phosphatase RsbU, regulator of sigma subunit (RsbU) (PDB:5UCG)
+GC_00002540	0.023511*	GC_00002540	Core	NULL	NULL
+GC_00002102	0.023841*	GC_00002102	Core	COG1863	Multisubunit Na+/H+ antiporter, MnhE subunit (MnhE) (PDB:6CFW)
+GC_00001657	0.024960*	GC_00001657	Core	COG0438	Glycosyltransferase involved in cell wall bisynthesis (RfaB) (PDB:2IV7)
+GC_00002724	0.025520*	GC_00002724	Core	COG2385	Peptidoglycan hydrolase (amidase) enhancer domain SpoIID (SpoIID)
+GC_00002096	0.025540*	GC_00002096	Core	COG1413	HEAT repeat (HEAT) (PDB:1OYZ)
+GC_00002106	0.025703*	GC_00002106	Core	COG1446	Isoaspartyl peptidase or L-asparaginase, Ntn-hydrolase superfamily (IaaA) (PDB:1APY)
+GC_00002394	0.026112*	GC_00002394	Core	COG0699	Replication fork clamp-binding protein CrfC (dynamin-like GTPase family) (CrfC) (PDB:1JWY)
+GC_00002355	0.026404*	GC_00002355	Core	COG0726	Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family (CDA1) (PDB:1NY1)
+GC_00001722	0.026585*	GC_00001722	Core	NULL	NULL
+GC_00001400	0.027563*	GC_00001400	Core	COG3411	2Fe-2S ferredoxin (PDB:1M2D) (PUBMED:24421039)
+GC_00001162	0.027795*	GC_00001162	Core	COG0424	7-methyl-GTP pyrophosphatase and related NTP pyrophosphatases, Maf/HAM1 superfamily (Maf) (PDB:2P5X) (PUBMED:24210219)
+GC_00001962	0.029106*	GC_00001962	Core	COG1625	Fe-S oxidoreductase, related to NifB/MoaA family (NifB)
+GC_00000819	0.030016*	GC_00000819	Core	NULL	NULL
+GC_00002663	0.030165*	GC_00002663	Core	COG1337	CRISPR-Cas system type III CSM-effector complex subunit Csm3, RAMP superfamily Cas7 group (Csm3) (PDB:6IFN)
+GC_00001095	0.030846*	GC_00001095	Core	NULL	NULL
+GC_00001792	0.031176*	GC_00001792	Core	COG0095	Lipoate-protein ligase A (LplA) (PDB:4TVW)
+GC_00001610	0.031376*	GC_00001610	Core	COG0830	Urease accessory protein UreF (UreF) (PDB:3SF5)
+GC_00002153	0.031467*	GC_00002153	Core	NULL	NULL
+GC_00001387	0.031573*	GC_00001387	Core	COG1005	NADH:ubiquinone oxidoreductase subunit 1 (chain H) (NuoH) (PDB:6HUM)
+GC_00001457	0.032447*	GC_00001457	Core	COG0115	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase (IlvE) (PDB:1A3G)
+GC_00000915	0.032599*	GC_00000915	Core	COG0596	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold (MenH) (PDB:4MYS)
+GC_00000874	0.033991*	GC_00000874	Core	COG0463	Glycosyltransferase involved in cell wall bisynthesis (WcaA) (PDB:5MLZ)
+GC_00001708	0.034120*	GC_00001708	Core	COG2084	3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase (MmsB) (PDB:1I36)
+GC_00002488	0.034179*	GC_00002488	Core	COG1512	Uncharacterized membrane protein YgcG, contains a TPM-fold domain (YgcG) (PDB:2KW7)
+GC_00001684	0.034506*	GC_00001684	Core	COG1505	Prolyl endopeptidase PreP, S9A serine peptidase family (PreP) (PDB:1E5T)
+GC_00002099	0.035292*	GC_00002099	Core	COG2326	Polyphosphate kinase 2, PPK2 family (PPK2) (PDB:3CZP)
+GC_00002032	0.035468*	GC_00002032	Core	COG1626	Neutral trehalase (TreA) (PDB:2JF4)
+GC_00001455	0.036240*	GC_00001455	Core	COG5690	Phycocyanobilin lyase CpeS/CpcS (= Ycf58) (Ycf58) (PDB:3BDR)
+GC_00001819	0.036400*	GC_00001819	Core	COG0408	Coproporphyrinogen-III oxidase HemH, oxygen-dependent (HemF) (PDB:3E8J)
+GC_00002093	0.036419*	GC_00002093	Core	NULL	NULL
+GC_00001718	0.040036*	GC_00001718	Core	COG4177	ABC-type branched-chain amino acid transport system, permease component (LivM)
+GC_00001741	0.040376*	GC_00001741	Core	COG2103	N-acetylmuramic acid 6-phosphate (MurNAc-6-P) etherase (MurQ) (PDB:4S12) (PUBMED:10095793)
+GC_00001388	0.040632*	GC_00001388	Core	COG0378	Hydrogenase/urease maturation factor HypB, Ni2+-binding GTPase (HypB) (PDB:2HF8) (PUBMED:24338018;23899293)
+GC_00002164	0.041423*	GC_00002164	Core	COG0312	Zn-dependent protease PmbA/TldA or its inactivated homolog (TldD) (PDB:3TV9) (PUBMED:12029038)
+GC_00000825	0.041430*	GC_00000825	Core	COG5710	Photosystem I reaction center subunit XI, PsaL (PsaL) (PDB:4L6V) (PUBMED:11418848)
+GC_00001843	0.042114*	GC_00001843	Core	COG0014	Gamma-glutamyl phosphate reductase (ProA) (PDB:4GHK)
+GC_00002015	0.043179*	GC_00002015	Core	COG0150	Phosphoribosylaminoimidazole (AIR) synthetase (PurM) (PDB:1CLI)
+GC_00001501	0.043787*	GC_00001501	Core	COG0645|COG2187	Predicted kinase, contains AAA domain (PDB:2RHM)|Aminoglycoside phosphotransferase family enzyme
+GC_00001459	0.044132*	GC_00001459	Core	COG0704	Phosphate uptake regulator PhoU (PhoU) (PDB:1T8B)
+GC_00002710	0.046341*	GC_00002710	Core	COG0463	Glycosyltransferase involved in cell wall bisynthesis (WcaA) (PDB:5MLZ)
+GC_00001040	0.046789*	GC_00001040	Core	COG0596	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold (MenH) (PDB:4MYS)
+GC_00001543	0.046876*	GC_00001543	Core	COG1807	PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA (ArnT) (PDB:5EZM) (PUBMED:16226890;31233657;32706435)
+GC_00001870	0.048071*	GC_00001870	Core	COG2211	Na+/melibiose symporter or related transporter (MelB) (PDB:4M64)
+GC_00002653	0.048373*	GC_00002653	Core	COG1058|COG1546	ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA (CinA) (PDB:4CT9) (PUBMED:25313401)|Nicotinamide mononucleotide (NMN) deamidase PncC (PncC) (PDB:2A9S)
+GC_00002850	0.048454*	GC_00002850	Aux_HF	COG0594	RNase P protein component (RnpA) (PDB:1A6F)
+GC_00003137	0.048780*	GC_00003137	Aux_HF	COG2304	Secreted protein containing bacterial Ig-like domain and vWFA domain (YfbK)
